@@ -50,7 +50,7 @@ To connect to your newly deployed instance via SSH, review the documentation at 
 
 [ACCORDION-BEGIN [Step 3: ](Prepare your instance for SAP HANA, express edition tutorials)]
 
-Your SAP HANA, express edition instance is now up and running.  Porceed to the "Next Steps" section, and set up your SAP HANA, express edition
+Your SAP HANA, express edition instance is now up and running.  Proceed to the "Next Steps" section, and set up your SAP HANA, express edition
 
 
 [DONE]
