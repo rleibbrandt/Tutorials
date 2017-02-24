@@ -7,10 +7,14 @@ tags: [  tutorial>beginner, topic>big-data, topic>cloud, products>sap-hana\,-exp
 ## Prerequisites  
  - You have a Google Account and/or have registered for the free trial on `cloud.google.com`
 
+## Next Steps
+- [Prepare SAP HANA, express edition for the SAP HANA Tutorial Catalog](http://www.sap.com/developer/how-tos/2016/09/hxe-howto-tutorialprep.html)
+- [Review SAP HANA, express edition content, tutorials and quick start guides](sap.com/developer/topics/sap-hana-express.html)
+- [**OPTIONAL** - Setup PuTTY and WinSCP to access your SAP HANA, express edition instance on Google Cloud Platform](http://www.sap.com/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html)  
 
 ## Details
 ### You will learn  
- - How to create a new Google Cloud Platform virtuan instance based on SAP HAAN, express edition
+ - How to create a new Google Cloud Platform virtuan instance based on SAP HANA, express edition
  - How to set your new instance, and enable it for tutorials and developing your first applicaiton
 
 ### Time to Complete
@@ -63,4 +67,4 @@ Your SAP HANA, express edition instance is now up and running.  Proceed to the "
 ## Next Steps
 - [Prepare SAP HANA, express edition for the SAP HANA Tutorial Catalog](http://www.sap.com/developer/how-tos/2016/09/hxe-howto-tutorialprep.html)
 - [Review SAP HANA, express edition content, tutorials and quick start guides](sap.com/developer/topics/sap-hana-express.html)
-- [**OPTIONAL** - Setup PuTTY and WinSCP to access your SAP HANA, express edition instance on Google Cloud Platform](http://www.sap.com/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html)  
+
