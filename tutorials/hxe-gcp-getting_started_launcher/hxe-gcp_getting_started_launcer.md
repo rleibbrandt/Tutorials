@@ -24,7 +24,7 @@ tags: [  tutorial>beginner, topic>big-data, topic>cloud, products>sap-hana\,-exp
 
 [ACCORDION-BEGIN [Step 1: ](Launch SAP HANA, express edition from the Google Cloud Platform Launcher)]
 
-Navigate to [Google Cloud Launcher](https:/console.cloud.google.com/launcher), and search for SAP HANA, express edition.
+Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), and search for SAP HANA, express edition.
 Click on the **"Launch on Compute Engine"** button.
 
 **`placeholder for jpeg or image from launcher with HXE`**
