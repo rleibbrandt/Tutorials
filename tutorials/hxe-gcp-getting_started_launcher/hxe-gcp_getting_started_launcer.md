@@ -35,7 +35,7 @@ Click on the **"Launch on Compute Engine"** button.
 4.  The default settings for RAM, CPU and Storage is appropriate for getting familiar with SAP HANA.
 5.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA XSA based applications are created, additional ports might have to be opened up.
 6.  After reviewing all configuration options, click **"Deploy"**
-
+7.  SSH into instance, and type `sudo su - hxeadm`.   Follow the prompts to change passwords
 
 
 Click on the `Deploy` button to launch your VM Instance
