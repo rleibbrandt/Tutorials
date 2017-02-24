@@ -9,7 +9,7 @@ tags: [  tutorial>beginner, topic>big-data, topic>cloud, products>sap-hana\,-exp
 
 ## Next Steps
 - [Prepare SAP HANA, express edition for the SAP HANA Tutorial Catalog](http://www.sap.com/developer/how-tos/2016/09/hxe-howto-tutorialprep.html)
-- [Review SAP HANA, express edition content, tutorials and quick start guides](sap.com/developer/topics/sap-hana-express.html)
+- [Review SAP HANA, express edition content, tutorials and quick start guides](http://www.sap.com/developer/topics/sap-hana-express.html)
 - [**OPTIONAL** - Setup PuTTY and WinSCP to access your SAP HANA, express edition instance on Google Cloud Platform](http://www.sap.com/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html)  
 
 ## Details
