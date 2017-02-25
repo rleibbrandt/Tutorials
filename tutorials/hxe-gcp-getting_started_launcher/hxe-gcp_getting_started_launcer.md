@@ -27,15 +27,17 @@ tags: [  tutorial>beginner, topic>big-data, topic>cloud, products>sap-hana\,-exp
 Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), and search for SAP HANA, express edition.
 Click on the **"Launch on Compute Engine"** button.
 
-**`placeholder for jpeg or image from launcher with HXE`**
+![Launch on Compute Engine](1.jpg)
 
-1.  Select or create the project you want to use with this instance.
-2.  Click **"Continue"**, and proceed to the deployment setup
-3.  Type an identifying name for the instance, then select the desired geographic zone and machine type. Individual zones might have differing computing resources available and specific access restrictions.
-4.  The default settings for RAM, CPU and Storage is appropriate for getting familiar with SAP HANA.
-5.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA XSA based applications are created, additional ports might have to be opened up.
-6.  After reviewing all configuration options, click **"Deploy"**
-7.  SSH into instance, and type `sudo su - hxeadm`.   Follow the prompts to change passwords
+1.  Click **"Continue"**, and proceed to the deployment setup
+
+![Configure your HANA instance](2.jpg)
+
+2.  Type an identifying name for the instance, then select the desired geographic zone and machine type. Individual zones might have differing computing resources available and specific access restrictions.
+3.  The default settings for RAM, CPU and Storage is appropriate for getting familiar with SAP HANA.
+4.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA XSA based applications are created, additional ports might have to be opened up.
+5.  After reviewing all configuration options, click **"Deploy"**
+6.  SSH into instance, and type `sudo su - hxeadm`.   Follow the prompts to change passwords
 
 
 Click on the `Deploy` button to launch your VM Instance
