@@ -25,14 +25,14 @@ tags: [  tutorial>beginner, topic>big-data, topic>cloud, products>sap-hana\,-exp
 [ACCORDION-BEGIN [Step 1: ](Launch SAP HANA, express edition from the Google Cloud Platform Launcher)]
 
 Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), and search for SAP HANA, express edition.
-Click on the **"Launch on Compute Engine"** button.
+
 
 ![Launch on Compute Engine](1.jpg)
 
 
 
 
-1.  Review Configuration for SAP HANA, express edition
+1.  Click on the **`Launch on Compute Engine`** button.    The next page will allow you to modify the default configuration for the Cloud Virtual Machine.
 
 
 
@@ -50,7 +50,7 @@ Click on the **"Launch on Compute Engine"** button.
 5.  After reviewing all configuration options, click **"Deploy"**
 
 
-6.  SSH into instance, and type `sudo su - hxeadm`.   Follow the prompts to change passwords
+6.  Use the web based SSH tool and log into instance, and type `sudo su - hxeadm`.   Follow the prompts to change passwords
 
 
 
