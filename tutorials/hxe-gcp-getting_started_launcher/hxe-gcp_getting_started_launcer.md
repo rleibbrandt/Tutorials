@@ -65,7 +65,7 @@ Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), 
 7.  Type `sudo su - hxeadm`. Follow the prompts to change password.   **SAP HANA will not be useable if this step is ignored.**
 ![Initialize Password](4.jpg)
 
-8.  To connect to SAP HANA, we need to know what the external IP adress is.  Click on the "Instance" link at the top of the page to drill into instance details.   Scroll down and make a note of the external IP adress.
+8.  To connect to SAP HANA, we need to know what the external IP adress is.  Click on the **"Instance"** link at the top of the page to drill into instance details.   Scroll down and make a note of the external IP adress.
 ![Access Instance details](5.jpg)
 
 
@@ -74,7 +74,7 @@ Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), 
 
 [ACCORDION-BEGIN [Step 2: ](Generate Key pairs to connect to your VM instance)]
 
-To connect to your newly deployed instance via SSH, review the documentation at https://cloud.google.com/compute/docs/instances/connecting-to-instance
+To connect to your newly deployed instance via a local SSH client (GCP provides built in SSH support), review the documentation at https://cloud.google.com/compute/docs/instances/connecting-to-instance
 
 
 [DONE]
