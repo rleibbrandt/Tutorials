@@ -51,7 +51,8 @@ Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), 
 3.  The default settings for RAM, CPU and Storage is appropriate for getting familiar with SAP HANA.    The recommended minimum configuration is 13GB of RAM, with at least 2VCPUs, and 36GB of storage.
 
 
-4.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA applications are created, additional ports might have to be opened up.
+4.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA applications are created, additional ports might have to be opened up.   The following ports are required to connect to SAP HANA, express edition 39013, 39015, 59013, 59014.    To connect to the instance from a local SSH client (Like putty), port 22 also has to be open.
+
 
 
 5.  After reviewing all configuration options, click **"Deploy"**.    This will take a few minutes.
