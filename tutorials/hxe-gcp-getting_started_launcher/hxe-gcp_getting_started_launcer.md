@@ -48,7 +48,7 @@ Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), 
 2.  Type an identifying name for the instance, then select the desired geographic zone and machine type. Individual zones might have differing computing resources available and specific access restrictions.
 
 
-3.  The default settings for RAM, CPU and Storage is appropriate for getting familiar with SAP HANA.   The recommended minimum configuration is 13GB of RAM, with at least 2VCPUs.
+3.  The default settings for RAM, CPU and Storage is appropriate for getting familiar with SAP HANA.    The recommended minimum configuration is 13GB of RAM, with at least 2VCPUs, and 36GB of storage.
 
 
 4.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA applications are created, additional ports might have to be opened up.
