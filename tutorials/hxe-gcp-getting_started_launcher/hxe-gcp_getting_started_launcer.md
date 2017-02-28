@@ -54,16 +54,15 @@ Navigate to [Google Cloud Launcher](https://console.cloud.google.com/launcher), 
 4.  By default, the firewall rules are configured specifically for SAP HANA, express edition.  As new SAP HANA applications are created, additional ports might have to be opened up.   The following ports are required to connect to SAP HANA, express edition 39013, 39015, 59013, 59014.    To connect to the instance from a local SSH client (Like putty), port 22 also has to be open.
 
 
-
 5.  After reviewing all configuration options, click **"Deploy"**.    This will take a few minutes.
 
 
-6.  Upon successful deployment - use the web based SSH tool and log into instance, and type `sudo su - hxeadm`.   
+6.  Upon successful deployment - use the web based SSH tool and log into instance.    
 ![SSH into instance](3.jpg)
 
 
 
-7.  Follow the prompts to change password.   **SAP HANA will not be useable if this step is ignored.**
+7.  Type `sudo su - hxeadm`. Follow the prompts to change password.   **SAP HANA will not be useable if this step is ignored.**
 ![Initialize Password](4.jpg)
 
 8.  To connect to SAP HANA, we need to know what the external IP adress is.  Click on the "Instance" link at the top of the page to drill into instance details.   Scroll down and make a note of the external IP adress.
